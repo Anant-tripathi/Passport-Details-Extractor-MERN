@@ -1,0 +1,20 @@
+{
+  "ParsedResults": [
+    {
+      "TextOverlay": {
+        "Lines": [],
+        "HasOverlay": false,
+        "Message": "Text overlay is not provided as it is not requested"
+      },
+      "TextOrientation": "0",
+      "FileParseExitCode": 1,
+      "ParsedText": "Tipe\r\np\r\nREPUBLIC OF\r\n/ Country Code\r\nIND\r\n/ Surname\r\n/ Given Nam«s)\r\nGURLAL SINGH\r\n/ Nationality\r\nINDIAN\r\nPlace of Birth\r\n/ sex\r\nINDIA\r\nPassport No.\r\nL 6168772\r\n*Date of Birth\r\n18/04/1993\r\nSANGWAN, TARN TARAN, PUNJAB\r\ni Place ot Issue\r\nAMRITSAR\r\n67 u.x-Pa2 SQ09\r\n/ Date Of Issue\r\n30/12/2013\r\n/ ' Ot Expiry\r\n29/12/2023\r\n",
+      "ErrorMessage": "",
+      "ErrorDetails": ""
+    }
+  ],
+  "OCRExitCode": 1,
+  "IsErroredOnProcessing": false,
+  "ProcessingTimeInMilliseconds": "328",
+  "SearchablePDFURL": "Searchable PDF not generated as it was not requested."
+}
