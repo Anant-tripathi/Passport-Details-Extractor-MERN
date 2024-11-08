@@ -42,9 +42,9 @@ async function sendFileToOCR(filePath) {
             }
         });
 
-        console.log('OCR Response:', response.data);
+        // console.log('OCR Response:', response.data);
 
-        // const ocrResult = response.data;
+        const ocrResult = response.data;
         
         if (!ocrResult.ParsedResults || ocrResult.ParsedResults.length === 0) {
             throw new Error('No text detected in the document');
